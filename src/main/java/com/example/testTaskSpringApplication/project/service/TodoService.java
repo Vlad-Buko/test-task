@@ -1,10 +1,10 @@
-package com.example.testTaskSpringApplication.service;
+package com.example.testTaskSpringApplication.project.service;
 
-import com.example.testTaskSpringApplication.entity.TodoEntity;
-import com.example.testTaskSpringApplication.entity.UserEntity;
-import com.example.testTaskSpringApplication.model.Todo;
-import com.example.testTaskSpringApplication.repository.TodoRepo;
-import com.example.testTaskSpringApplication.repository.UserRepo;
+import com.example.testTaskSpringApplication.project.entity.TodoEntity;
+import com.example.testTaskSpringApplication.project.entity.UserEntity;
+import com.example.testTaskSpringApplication.project.model.Todo;
+import com.example.testTaskSpringApplication.project.repository.TodoRepo;
+import com.example.testTaskSpringApplication.project.repository.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.example.testTaskSpringApplication;
+package com.example.testTaskSpringApplication.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

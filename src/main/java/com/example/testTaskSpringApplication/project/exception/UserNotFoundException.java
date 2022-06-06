@@ -1,4 +1,4 @@
-package com.example.testTaskSpringApplication.exception;
+package com.example.testTaskSpringApplication.project.exception;
 
 public class UserNotFoundException extends Exception {
     public UserNotFoundException(String message) {

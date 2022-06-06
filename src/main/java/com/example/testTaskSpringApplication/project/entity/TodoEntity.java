@@ -1,4 +1,4 @@
-package com.example.testTaskSpringApplication.entity;
+package com.example.testTaskSpringApplication.project.entity;
 
 import javax.persistence.*;
 

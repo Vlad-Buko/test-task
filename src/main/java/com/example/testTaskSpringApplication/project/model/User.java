@@ -1,6 +1,6 @@
-package com.example.testTaskSpringApplication.model;
+package com.example.testTaskSpringApplication.project.model;
 
-import com.example.testTaskSpringApplication.entity.UserEntity;
+import com.example.testTaskSpringApplication.project.entity.UserEntity;
 
 import java.util.List;
 import java.util.stream.Collectors;
