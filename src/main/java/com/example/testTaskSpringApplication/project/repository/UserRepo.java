@@ -1,6 +1,6 @@
-package com.example.testTaskSpringApplication.repository;
+package com.example.testTaskSpringApplication.project.repository;
 
-import com.example.testTaskSpringApplication.entity.UserEntity;
+import com.example.testTaskSpringApplication.project.entity.UserEntity;
 import org.springframework.data.repository.CrudRepository;
 
 public interface UserRepo extends CrudRepository<UserEntity, Long> {

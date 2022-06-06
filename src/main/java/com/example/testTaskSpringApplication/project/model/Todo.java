@@ -1,6 +1,6 @@
-package com.example.testTaskSpringApplication.model;
+package com.example.testTaskSpringApplication.project.model;
 
-import com.example.testTaskSpringApplication.entity.TodoEntity;
+import com.example.testTaskSpringApplication.project.entity.TodoEntity;
 
 public class Todo {
     private Long id;

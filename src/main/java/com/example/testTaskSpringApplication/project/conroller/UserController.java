@@ -1,9 +1,9 @@
-package com.example.testTaskSpringApplication.conroller;
+package com.example.testTaskSpringApplication.project.conroller;
 
-import com.example.testTaskSpringApplication.entity.UserEntity;
-import com.example.testTaskSpringApplication.exception.UserAlreadyExistException;
-import com.example.testTaskSpringApplication.exception.UserNotFoundException;
-import com.example.testTaskSpringApplication.service.UserService;
+import com.example.testTaskSpringApplication.project.entity.UserEntity;
+import com.example.testTaskSpringApplication.project.exception.UserAlreadyExistException;
+import com.example.testTaskSpringApplication.project.exception.UserNotFoundException;
+import com.example.testTaskSpringApplication.project.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

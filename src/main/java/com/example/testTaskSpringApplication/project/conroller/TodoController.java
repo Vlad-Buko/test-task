@@ -1,7 +1,7 @@
-package com.example.testTaskSpringApplication.conroller;
+package com.example.testTaskSpringApplication.project.conroller;
 
-import com.example.testTaskSpringApplication.entity.TodoEntity;
-import com.example.testTaskSpringApplication.service.TodoService;
+import com.example.testTaskSpringApplication.project.entity.TodoEntity;
+import com.example.testTaskSpringApplication.project.service.TodoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
